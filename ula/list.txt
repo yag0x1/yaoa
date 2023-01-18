@@ -1,3 +1,0 @@
-1- Impendancias da ula
-2- Modelos da rede neural
-3- Sinbolos IQs amostradas no HFSS
